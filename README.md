@@ -145,19 +145,14 @@ Through the development of this project, I gained practical experience in:
 
 ---
 
-## 🔮 Future Improvements
+## 🎥 Project Demo
 
-- Complete additional blockchain learning modules
-- Add more advanced VR interactions
-- Implement user progress tracking
-- Add interactive assessments and quizzes
-- Improve visual feedback and animations
-- Add guided tutorials and narration
-- Introduce performance-based learning analytics
-- Optimize the experience for standalone VR headsets
-- Expand the platform to include additional technical learning laboratories
+Watch the full VR experience demo below:
+
+[▶ Watch Demo Video] - https://drive.google.com/file/d/1YE0mZS-38EmmqHrlV4F3lFp_IU1sVUEc/view?usp=drive_link
 
 ---
+
 
 ## 💡 Project Vision
 
